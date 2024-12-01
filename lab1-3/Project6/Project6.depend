@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697447841 source:i:\programowanie\project6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

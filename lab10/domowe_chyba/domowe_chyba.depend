@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704703673 source:i:\programowanie\lab10\domowe_chyba\main.cpp
+	<iostream>
+	<string>
+

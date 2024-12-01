@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699871061 source:i:\programowanie\lab6\p22v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

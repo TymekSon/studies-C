@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701081738 source:i:\programowanie\lab7\zad7\main.cpp
+	<iostream>
+	<stdlib.h>
+
